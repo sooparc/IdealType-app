@@ -1,5 +1,4 @@
-# IdealType-app 😍
-
+# IdealType-app 🥰
 Finding an ideal type app using these technologies.
 
 1. React JS
